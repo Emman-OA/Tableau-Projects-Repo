@@ -104,6 +104,9 @@ Through this project, I developed practical experience in:
 <img width="788" height="386" alt="image" src="https://github.com/user-attachments/assets/2891ef0d-0d8e-4042-8fac-8e773fd5eaea" />
 <img width="788" height="373" alt="image" src="https://github.com/user-attachments/assets/e3361510-46ed-46be-a3a1-f14089efc3f5" />
 
-
+#My Dashboard
+[link to my dashboard](https://public.tableau.com/views/GBEmploymentData1/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[link to my dashboard](https://public.tableau.com/views/GlobalHealthInsights_17900837088210/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[link to my dashboard](https://public.tableau.com/views/SpotifyData_17901129924550/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 🌟 Project Outcome
 This project strengthened my ability to use Tableau to transform raw retail and sales data into interactive, insightful, and visually engaging dashboards. By combining data analysis, visualization best practices, and storytelling techniques, I developed dashboards that support business reporting, performance monitoring, and strategic decision-making. 📊🚀✨
